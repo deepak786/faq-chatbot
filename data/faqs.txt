@@ -1,0 +1,80 @@
+Q: How can I reset my password?
+A: Go to Settings > Account > Reset Password and follow the instructions. A verification link will be sent to your registered email.
+
+Q: Can I use the app without an internet connection?
+A: Yes, Offline Mode is supported. Enable it from Settings > Preferences > Offline Mode. Note that some features like syncing won't be available.
+
+Q: How do I export my data?
+A: Navigate to Profile > Export Data. You can download your usage history and saved items as a JSON or CSV file.
+
+Q: How do I change the language of the app?
+A: Go to Settings > Language and select from the available options. The app will restart to apply the new language.
+
+Q: Where can I find help or support?
+A: Use the Help section in the app or email us directly at support@example.com. Our team responds within 24–48 hours.
+
+Q: How do I delete my account?
+A: Open Settings > Account > Delete Account. This action is irreversible and will remove all your data permanently.
+
+Q: What devices are supported?
+A: The app runs on Android (version 8 and above), iOS (version 13+), and all modern desktop browsers via our web version.
+
+Q: Is dark mode available?
+A: Yes. You can toggle between light and dark themes in Settings > Appearance.
+
+Q: Can I share my notes with others?
+A: Yes. Use the Share button in the top right of any note. You can copy a link or invite collaborators via email.
+
+Q: How do I back up my data?
+A: Automatic backups are enabled by default if you're signed in. You can manually trigger a backup under Settings > Backup.
+
+Q: How do I change my email address?
+A: Navigate to Settings > Account > Email, and follow the verification process to change your email.
+
+Q: Can I recover deleted notes?
+A: Deleted notes go to Trash and are kept for 30 days. You can recover them from the Trash folder.
+
+Q: Is two-factor authentication supported?
+A: Yes. You can enable 2FA from Settings > Security. We support both email and authenticator app-based 2FA.
+
+Q: What is the difference between Free and Pro plans?
+A: Free plan includes basic features and limited storage. Pro unlocks advanced features like unlimited uploads, offline sync, and priority support.
+
+Q: How do I upgrade to the Pro version?
+A: Tap on Upgrade in the app sidebar or visit our website. Payment is handled via secure Stripe checkout.
+
+Q: Can I cancel my subscription?
+A: Yes. Go to Settings > Subscription > Manage. Cancel anytime to stop future billing. Your Pro benefits remain until the current billing period ends.
+
+Q: Will I lose data after canceling Pro?
+A: No, your data remains intact. You just lose access to Pro-only features until you resubscribe.
+
+Q: How do I report a bug?
+A: Shake your device to trigger the feedback dialog or email us at bugs@example.com with screenshots and steps to reproduce.
+
+Q: Does the app support voice input?
+A: Yes. On mobile devices, you can use your keyboard's voice input feature to dictate notes or commands.
+
+Q: Is my data encrypted?
+A: Absolutely. All data is encrypted in transit (HTTPS) and at rest using industry-standard AES-256 encryption.
+
+Q: Can I integrate the app with Google Drive or Dropbox?
+A: Yes. You can enable integrations from Settings > Integrations to automatically back up or sync files.
+
+Q: How can I add tags to my notes?
+A: While editing a note, tap the tag icon. Tags help you organize and search content quickly.
+
+Q: Why am I not receiving notifications?
+A: Ensure that notifications are enabled both in-app and in your device settings. Also, check that Do Not Disturb mode is off.
+
+Q: How often is the app updated?
+A: We release minor updates bi-weekly and major updates once every quarter. You can see the changelog in Settings > About > Changelog.
+
+Q: Where can I see my account activity?
+A: Visit Settings > Security > Activity Log to view login sessions, device info, and recent changes.
+
+Q: Can I access the app on multiple devices?
+A: Yes. Sign in with the same account on any supported device. Your data syncs automatically across platforms.
+
+Q: Is there a desktop app?
+A: Yes. We offer native apps for Windows, macOS, and Linux. Download them from our website.
